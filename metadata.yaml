@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2364
     wikipedia: http://en.wikipedia.org/wiki/Ian_Maclaren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43727#His-Majesty-Baby-and-Some-Common-People
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
 identifiers:
